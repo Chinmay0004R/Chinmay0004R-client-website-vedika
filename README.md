@@ -1,6 +1,6 @@
 # 🌿 Vedika's Mehndi Arts
 
-A modern and responsive portfolio website developed for **Vedika's Mehndi Arts** to showcase mehndi designs and services online.
+A modern and responsive website developed for **Vedika's Mehndi Arts** to showcase mehndi designs and services online.
 
 ## 📖 Overview
 
