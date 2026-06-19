@@ -66,7 +66,7 @@ vedikas-mehndi-arts/
 
 ## 🚀 Live Demo
 
-🔗 Live Website: [Add Live Link Here]
+🔗 Live Website: https://vedikamhadeshwar.vercel.app/
 
 
 
